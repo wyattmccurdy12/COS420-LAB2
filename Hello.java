@@ -9,7 +9,11 @@ public class Hello {
         System.out.println("Hello Alice!");
 
         System.out.println("");
-        
+
         System.out.println("HI BOB...");
+
+        System.out.println();
+
+        System.out.println("Hi Charlie");
     }
 }
